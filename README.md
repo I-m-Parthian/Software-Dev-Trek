@@ -30,3 +30,5 @@ A roadmap for all the devs facing hurdle in learning new technologies
 
 * [L7: Atomic Habits](soft-skills/L7/README.md)
 
+* [L8: Assertive Communication](soft-skills/L8/README.md)
+
