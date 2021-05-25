@@ -20,7 +20,7 @@ A roadmap for all the devs facing hurdle in learning new technologies
 
 * [L2: Email Communication](soft-skills/L2/README.md)
 
-* L3: Grit and Growth Mindset
+* [L3: Grit and Growth Mindset](soft-skills/L3/README.md)
 
 * [L4: Listening and Learning Process](soft-skills/L4/README.md)
 
