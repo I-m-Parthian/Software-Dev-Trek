@@ -8,7 +8,7 @@ A roadmap for all the devs facing hurdle in learning new technologies
 
 * [Link for webdev resources](https://www.appbrewery.co/p/web-development-course-resources/)
 
-* [L1: Developer Basics](L1:Developer-Basics/README.md)
+* [L1: Developer Basics](./L1:Developer-Basics/README.md)
 
 * [L3: Database](L3:Database/README.md)
 
