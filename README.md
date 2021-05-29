@@ -4,7 +4,11 @@ A roadmap for all the devs facing hurdle in learning new technologies
 
 ## Ruby on Rails
 
+* [A RoadMap to be a Web Developer](https://coder-coder.com/learn-web-development/)
+
 * [Link for webdev resources](https://www.appbrewery.co/p/web-development-course-resources/)
+
+* [L1: Developer Basics](L1:Developer-Basics/README.md)
 
 * [L3: Database](L3:Database/README.md)
 
