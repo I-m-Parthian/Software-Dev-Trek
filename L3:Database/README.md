@@ -8,9 +8,9 @@ Database basics with PostgreSQL
 
 ## Install and get familiar with PostgreSQL
 
-[PostgreSQL quick start guide](https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart)
+* [PostgreSQL quick start guide](https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart)
 
-
+* [Install PostgreSQL Linux](https://www.postgresqltutorial.com/install-postgresql-linux/)
 ## SQL Basics
 
 * [Basic sql](https://sqlbolt.com)
@@ -19,23 +19,17 @@ Database basics with PostgreSQL
 ## Database Project
 
 Solve the IPL data problem, but this time with SQL, using PostgreSQL database.
-1. Create DB, permissions etc.
-> Write a SQL script that creates a new user, and database. Make the user the owner of the db.
 
-2. Clean up script
-> Write another SQL script that cleans up the user, and database created in the previous step.
+**1. Create DB, permissions etc.**  
+Write a SQL script that creates a new user, and database. Make the user the owner of the db.
 
-3. Load CSV
-> Write a SQL script that loads CSV data into a table.
+**2. Clean up script**  
+Write another SQL script that cleans up the user, and database created in the previous step.
 
-4. Solve the 4 IPL problems
-> In a SQL file write queries that will solve the 4 problems of the IPL data set, but this time with SQL.
+**3. Load CSV**  
+Write a SQL script that loads CSV data into a table.
 
-Note: the result in this case is not a graph but SQL Result Set.
+**4. Solve the 4 IPL problems**  
+In a SQL file write queries that will solve the 4 problems of the IPL data set, but this time with SQL.
 
-5. Submission
-As with previous projects ...
-Fork the project data-project-database from the Master Group.
-All the code for this assignment should be in that repo.
-Supporting files like .gitignore, README.md should also be included.
-The README should have all the info for your mentor to run the scripts.
+**Note:** the result in this case is not a graph but SQL Result Set.
