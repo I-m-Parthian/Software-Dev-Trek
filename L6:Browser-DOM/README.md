@@ -22,22 +22,22 @@ The browser's Document Object Model
 
 The youtube playlist given below gives a nice introduction to the browser DOM.
 
-[Playlist](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+[JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 
 #### Browser API
 
 **Introduction**
 
-- [link 1](https://flaviocopes.com/web-platform/)
+- [Roadmap to learn the Web Platform](https://flaviocopes.com/web-platform/)
 
 **Web storage**
 
-- [Link 1](https://flaviocopes.com/web-storage-api/)
+- [The Web Storage API: local storage and session storage](https://flaviocopes.com/web-storage-api/)
 
-- [Link 2](https://javascript.info/data-storage)
+- [Storing data in the browser](https://javascript.info/data-storage)
 
-- [Video](https://www.youtube.com/watch?v=AwicscsvGLg)
+- [cookies vs localStorage vs sessionStorage - 9:04 minutes](https://www.youtube.com/watch?v=AwicscsvGLg)
 
 **CSS Frameworks - Faster UI Development**
 
-- [Blog 1](https://blog.zipboard.co/a-beginners-guide-to-css-front-end-frameworks-8045a499456b)
+- [A Beginner’s Guide to CSS Front End Frameworks](https://blog.zipboard.co/a-beginners-guide-to-css-front-end-frameworks-8045a499456b)
