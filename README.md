@@ -14,7 +14,7 @@ A roadmap for all the devs facing hurdle in learning new technologies
 
 * [L3: Database](./L3:Database/README.md)
 
-* [L4: OOPS Drill](./L4:OOPS/README.md)
+* [L4: OOPS and SOLID Architecture](./L4:OOPS/README.md)
 
 * [L5: Web  basics](./L5:Web-basics/README.md)
 
