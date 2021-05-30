@@ -20,7 +20,9 @@ A roadmap for all the devs facing hurdle in learning new technologies
 
 * [L6: Browser DOM](./L6:Browser-DOM/README.md)
 
-## [Soft Skills Track](soft-skills/)
+* [L7: Ruby on Rails](./L7:RoR/README.md)
+
+## Soft Skills Track
 
 * [L1: Written Communication](soft-skills/L1/README.md)
 
